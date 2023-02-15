@@ -1,0 +1,24 @@
+body {
+    background-color: #00674c;
+}
+
+
+div {
+    background-color:#f40403 ;  
+    height: 300px;
+    width: 300px;
+    border-radius: 90%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 150px;
+}
+
+
+img {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 68px;
+    left: 80px;
+    border-radius: 50%;
+}
